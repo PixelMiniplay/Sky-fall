@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Starfall Sprint",
+  "description": "An epic endless space runner featuring dynamic synthesised sound effects, animated combo counters, power-ups, and custom particle engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
